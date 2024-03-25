@@ -4,7 +4,7 @@ fun main() {
 statement("Barnie bakes brown bagels and buns")
  println(isPalindrome("madam"))
 
-numbers([23,50,49,60])
+numbers(arrayOf(10,20,30,40))
 
 
 
